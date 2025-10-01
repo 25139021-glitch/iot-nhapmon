@@ -1,4 +1,3 @@
-Ho ten: Nguyen Trong Khoi
-MSSV: 25139021
-So thich: IoT & Embedded
-- Sở thích: IoT & hệ thống nhúng
+# PROFILE 25139021
+- Họ tên: NGUYEN TRONG KHOI
+- MSSV: 25139021
