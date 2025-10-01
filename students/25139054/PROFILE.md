@@ -1,3 +1,4 @@
 # PROFILE 25139054
 - Họ tên: TON THAT MINH TRIET
 - MSSV: 25139054
+- Sở thích: Lập trình IoT và AI
